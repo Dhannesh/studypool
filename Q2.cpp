@@ -71,9 +71,7 @@ int main()
     cout << "The bestselling pizza is " << bestseller_name << " with the sales of "
 
          << bestseller_number << endl; // Display the best selling pizza
-
-    cout << "The worst selling pizza is " << worstseller_name << " with the sales of "
-
-         << worstseller_number << endl;
     cout << "this is just for testing the git";
-} // display the worst selling pizza
+    cout << "this is just for testing the git";
+    cout << "this is just for testing the git";
+}
